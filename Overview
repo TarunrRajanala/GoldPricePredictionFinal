@@ -1,1 +1,2 @@
-
+#Outline:
+We will begin by looking at some existing kaggle projects to get an idea for data preprocessing, feature engineering, and model selection. If feasible, also merge with the VIX index, and possibly other features. We will use enseamble learning to combine the output of several models. Also we could implement bagging and boosting techniques to make sure that the training and testing accuracies are good.
