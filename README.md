@@ -1,4 +1,6 @@
-#Outline:
+# ECE 460J Final Project
+## Gold Price Prediction
+### Outline
 We will begin by looking at some existing kaggle projects to get an idea for data preprocessing, feature engineering, and model selection. 
 If feasible, also merge with the VIX index, and possibly other features such as a Crytpo ETF.
 We will use enseamble learning to combine the output of several models. 
